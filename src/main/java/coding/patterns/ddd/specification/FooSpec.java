@@ -1,7 +1,6 @@
 package coding.patterns.ddd.specification;
 
 import coding.patterns.ddd.essence.ShipmentOrder;
-import com.sun.istack.internal.NotNull;
 import lombok.AllArgsConstructor;
 
 import java.util.Date;
